@@ -1,2 +1,4 @@
-# Ejemplo de un servicio de audio para extraer emociones
-Este es un ejemplo incompleto de un servicio de audio para extraer emociones. El entrenamiento y los objetos asociados a ese proceso serán prontamente subidos aqui. 
+# Sentiment Analysis via Audio
+
+1 - Deep Learning Approach modifying and concatenating two different models.
+2 - Machine Learning Approach using MFCCs and Random Forest Algorithm. 
